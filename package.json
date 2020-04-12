@@ -1,0 +1,19 @@
+{
+    "name": "harp-standard-theme",
+    "version": "1.0.0",
+    "description": "A standardized theme for harp.gl",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Astrak/harp-standard-theme.git"
+    },
+    "keywords": [
+        "maps",
+        "theme"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Astrak/harp-standard-theme/issues"
+    },
+    "homepage": "https://github.com/Astrak/harp-standard-theme#readme"
+}
